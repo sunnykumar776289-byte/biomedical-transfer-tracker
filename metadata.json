@@ -1,0 +1,6 @@
+{
+  "name": "Biomedical Equipment Transfer Register",
+  "description": "Hospital equipment transfer and return tracking app for direct ward-to-ward handovers with dual acknowledgement and biomedical engineering visibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
